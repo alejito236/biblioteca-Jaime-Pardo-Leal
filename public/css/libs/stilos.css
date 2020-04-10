@@ -1,0 +1,74 @@
+.footer{
+
+    background-color:#92A3AA;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    position: relative;
+    top: 108px;
+    height:40px;
+}
+
+.footer2{ background-color:#92A3AA;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    position: relative;
+    top: -5px;
+    height:50px;
+
+}
+
+.footer3{ background-color:#92A3AA;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    position: relative;
+    top: -px;
+    height:50px;
+
+}
+
+.footer4{ background-color:#92A3AA;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    position: relative;
+    top: -px;
+    height:50px;
+
+}
+
+.footer5{ background-color:#92A3AA;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    position: relative;
+    top: 5px;
+    height:50px;
+
+}
+
+.fondo
+{
+    height:200px;
+    width:300px;
+    background-position: center;
+}
+
+.icono{
+    background-image: url(public/img/book_3725.ico);
+}
+
+.letra{ background-image:#92A3AA;
+    position: relative;
+    top: 5px;
+    height:50px;
+
+}
+
+.portada
+{
+    width:190px; 
+    height:60px;
+    position: relative;
+    top:-2px;
+    position: fixed;
+    left: 0px;
+    
+}
